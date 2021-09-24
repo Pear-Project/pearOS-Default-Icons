@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=pearOS-dark
-Comment=Default pearOS NiceC0re dark mode iconpack
-Inherits=Numix-Circle,Adwaita,hicolor
+Comment=Default pearOS NiceCore dark mode icon pack
+Inherits=Numix-Circle-Light,Adwaita,hicolor
 Example=folder
 
 # KDE/Plasma Stuff
